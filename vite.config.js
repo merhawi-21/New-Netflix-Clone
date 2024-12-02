@@ -9,6 +9,6 @@ export default defineConfig({
     chunkSizeWarningLimit: 1000, // Set the warning limit to 1000 kB
   },
   
-  base: "/Netflix-Clon", // Replace 'your-repo-name' with the name of your GitHub repository
+  base: "/New-Netflix-Clone", // Replace 'your-repo-name' with the name of your GitHub repository
 })
 
